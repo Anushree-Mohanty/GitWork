@@ -55,7 +55,8 @@ footer a {
     text-decoration: none;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 768px)
+ {
     .book-grid {
         flex-direction: column;
         align-items: center;
