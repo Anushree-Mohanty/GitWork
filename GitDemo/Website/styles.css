@@ -8,7 +8,7 @@ body {
 }
 
 .hero {
-    background-color: #4caf9e;
+    background-image: url(herobg.jpg);
     color: white;
     padding: 40px 20px;
 }
